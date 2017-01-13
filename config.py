@@ -50,3 +50,5 @@ def configure(keymap):
         keymap_global[ "Ctrl-F" ] = "Right"  
         keymap_global[ "Ctrl-B" ] = "Left"  
         keymap_global[ "Ctrl-J" ] = "Enter" 
+        keymap_global[ "Ctrl-V" ] = "PageDown" 
+        keymap_global[ "Ctrl-Shift-V" ] = "PageUp" 
